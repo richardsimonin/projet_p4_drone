@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=accelero-1
+Removed Pin From Net: NetName=GND Pin=accelero-2
+Removed Pin From Net: NetName=AD5 Pin=accelero-3
+Removed Pin From Net: NetName=AD4 Pin=accelero-4
+Removed Pin From Net: NetName=IO2 Pin=accelero-5
+Removed Member From Class: ClassName=ArduinoUnoShield Member=accelero
+Added Pin To Net: NetName=3V3 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=AD5 Pin=P?-3
+Added Pin To Net: NetName=AD4 Pin=P?-4
+Added Pin To Net: NetName=IO2 Pin=P?-5
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component P? TSW-105-05-F-S
